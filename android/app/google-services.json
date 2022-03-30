@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "516044518461",
+    "project_id": "nineleaps-test",
+    "storage_bucket": "nineleaps-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516044518461:android:983fc57327266e41716654",
+        "android_client_info": {
+          "package_name": "com.nineleaps_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516044518461-9qlhvsn35idbdmf93u57fsgm9h5pddu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineleaps_test",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "516044518461-a4hevk91s77ckhn2dv2b0r4kvnuo8p2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineleaps_test",
+            "certificate_hash": "71a7c7e69cbd71793a6be31104cb55f68efd566f"
+          }
+        },
+        {
+          "client_id": "516044518461-g9rnu260136275dlntfgns98kp1um287.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWCLmEJ00fKX-7PLw8TEcg2BA3rgJ9Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516044518461-g9rnu260136275dlntfgns98kp1um287.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
